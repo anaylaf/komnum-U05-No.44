@@ -147,7 +147,7 @@ for i in range(0, n):
 ``` 
 - Calculates and displays the error percentage between Euler's approximation and the real solution at each step to evaluate the accuracy of the Euler method.
 
-Results:
+Results :
 ```
 Initial conditions:
 h = 3
