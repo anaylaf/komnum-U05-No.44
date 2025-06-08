@@ -45,7 +45,7 @@ x2: 8
 x3: 11  
 ```
 
-# Real Solution
+## 3. Real Solution
 ```
 # real y values (using the normal integral method):
 def real_f(x):
@@ -70,7 +70,7 @@ Real f(2): 24166.4
 Real f(3): 123516.8  
 ```
 
-# Function Derivative
+## 4. Function Derivative
 ```
 # f(x, y) values
 def y(x):
@@ -92,7 +92,7 @@ y2: 15616
 y3: 57112
 ```
 
-# Euler Method Calculation
+## 5. Euler Method Calculation
 ```
 # euler method
 euler_y = np.zeros(4)
@@ -117,7 +117,7 @@ euler y2: 6641.6
 euler y3: 53489.6  
 ```
 
-# Error Calculation
+## 6. Error Calculation
 ```
 # errors = (abs(euler_y-f_real))/f_real*100
 
