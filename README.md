@@ -1,7 +1,7 @@
 - Name : Almira Nayla Felisitha
 - NRP : 5025241014
 - Class : IUP
-- Group : U05
+- Group : IUP05
 
 # Number 44
  Integrasikan persamaan f(x,y) = 4x⁴ - 12x² dari X0 = 2 sampai X3 = 11 dengan ukuran step h = 3 dengan menggunakan metoda Euler [Cari nilai error nya juga]  
