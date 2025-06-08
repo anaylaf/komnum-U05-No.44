@@ -37,7 +37,7 @@ for i in range(0, n):
     * Number of steps n = 4
 -   Generates xi_values: [2, 5, 8, 11] (x values at each step)
 
-Result :
+Results :
 ```  
 x0: 2  
 x1: 5  
@@ -109,7 +109,7 @@ for i in range(0, n):
 - Initializes an array euler_y for Euler's results.
 - Sets initial condition y0 to the real value of f(x0).
 
-Result : 
+Results : 
 ``` 
 euler y0: -6.4  
 euler y1: 41.6  
