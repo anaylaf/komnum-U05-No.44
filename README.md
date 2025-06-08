@@ -84,7 +84,7 @@ for i in range(0, n):
 - This function represents the derivative f'(x) or dy/dx.
 - This is used in Euler's method to approximate the next value.
 
-Results
+Results :
 ```
 y0: 16
 y1: 2200
